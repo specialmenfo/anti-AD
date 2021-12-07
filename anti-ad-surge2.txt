@@ -35620,7 +35620,6 @@
 .adsview2.qq.com
 .adver.qq.com
 .aegis.qq.com
-.beacon.qq.com
 .ag.qq.com
 .agstat.html5.qq.com
 .analy.qq.com
@@ -35691,7 +35690,6 @@
 .sec.video.qq.com
 .sngapm.qq.com
 .sngmta.qq.com
-.soup.v.qq.com
 .stat.y.qq.com
 .statistic.qzone.qq.com
 .szlong.weixin.qq.com
