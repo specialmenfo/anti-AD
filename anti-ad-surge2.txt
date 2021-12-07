@@ -35619,8 +35619,6 @@
 .adsview.qq.com
 .adsview2.qq.com
 .adver.qq.com
-.aegis.qq.com
-.beacon.qq.com
 .ag.qq.com
 .agstat.html5.qq.com
 .analy.qq.com
@@ -35631,14 +35629,12 @@
 .bkcommdata.v.qq.com
 .bksoup.v.qq.com
 .bsrv.qq.com
-.btrace.qq.com
 .bugly.qq.com
 .ssp.qq.com
 .commdata.v.qq.com
 .d3g.qq.com
 .data.qq.com
 .detect.mb.qq.com
-.dp3.qq.com
 .e.qq.com
 .event.toggle.qq.com
 .fusion.qq.com
